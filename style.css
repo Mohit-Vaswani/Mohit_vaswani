@@ -361,6 +361,12 @@ img{
   color: #fff;
   margin: 0 var(--mb-2)
 }
+@media screen and (max-width: 460px)
+{
+  .home__img{
+    width: 250px;
+  }
+}
 
 /* ===== MEDIA QUERIES=====*/
 @media screen and (min-width: 768px){
