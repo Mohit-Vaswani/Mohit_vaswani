@@ -253,6 +253,11 @@ img{
   row-gap: 2rem;
   text-align: center;
 }
+.skill_container{
+  display: flex;
+
+}
+
 .skills__subtitle{
   margin-bottom: var(--mb-2);
 }
@@ -264,8 +269,9 @@ img{
   justify-content: space-between;
   align-items: center;
   position: relative;
+  width: 200px;
   font-weight: var(--font-semi);
-  padding: .5rem 1rem;
+  padding: .5rem .5rem;
   margin-bottom: var(--mb-4);
   border-radius: .5rem;
   box-shadow: 0 4px 25px rgba(14,36,49,.15);
