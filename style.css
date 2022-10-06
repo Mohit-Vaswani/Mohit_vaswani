@@ -255,7 +255,7 @@ img{
 }
 .skill_container{
   display: flex;
-
+  flex-direction: column;
 }
 
 .skills__subtitle{
