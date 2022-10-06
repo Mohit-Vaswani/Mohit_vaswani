@@ -378,6 +378,10 @@ img{
   .home__img{
     width: 250px;
   }
+
+  .skill_big_container{
+    flex-direction: row;
+  }
 }
 
 /* ===== MEDIA QUERIES=====*/
