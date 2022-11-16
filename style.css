@@ -328,6 +328,7 @@ img{
 .work__img img{
   cursor: pointer;
   width: 380px;
+  border-radius: 20px;
 }
 
 /* ===== CONTACT =====*/
